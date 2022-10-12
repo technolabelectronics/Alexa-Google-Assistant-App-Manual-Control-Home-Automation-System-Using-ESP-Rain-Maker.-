@@ -1,5 +1,8 @@
 # Alexa-Google-Assistant-App-Manual-Control-Home-Automation-System-Using-ESP-Rain-Maker.-
 PCBA from $0 (Free Setup, Free Stencil) https://jlcpcb.com/RNA Discount Coupon Code valid forever 【JLC-REBE 】
+
+The article is being published in collaboration with JLCPCB. It is one of the most experienced PCB manufacturers with more than a decade in the field of PCB prototype and fabrication, they are committed to meeting the needs of their customers from different industries in terms of quality, delivery, cost-effectiveness and any other demanding requests.
+
 # Introduction.
 Controlling our home-appliances from Alexa and google assistant is fun. And these smart speakers are very popular nowadays and almost everyone has in their houses.
 Controlling home-appliances from these smart speakers is pretty amazing and also very convenient.
